@@ -1,1 +1,1 @@
-class Coupon < Act
+class Coupon < ActiveRecord::Base
